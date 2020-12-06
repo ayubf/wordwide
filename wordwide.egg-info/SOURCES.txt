@@ -1,0 +1,7 @@
+setup.py
+bin/wordwide.py
+wordwide.egg-info/PKG-INFO
+wordwide.egg-info/SOURCES.txt
+wordwide.egg-info/dependency_links.txt
+wordwide.egg-info/entry_points.txt
+wordwide.egg-info/top_level.txt
