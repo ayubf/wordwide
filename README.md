@@ -1,0 +1,12 @@
+# Wordwide
+Simple cli tool for quick searches
+
+# Command Index
+-h: displays this page\
+-d {word}: Searches for the defention of {word} \
+-w: displays the word of the day
+# Libraries I used:
+BeautifulSoup4: https://www.crummy.com/software/BeautifulSoup/bs4/doc/  \
+Lxml: https://lxml.de/ \
+Requests:https://requests.readthedocs.io/en/master/ \
+Rich:https://rich.readthedocs.io/ 

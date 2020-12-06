@@ -1,0 +1,5 @@
+Wordwide Release Notes:
+
+- 1.0
+  . Definiton search added
+  . Word of the day feature added
