@@ -1,5 +1,5 @@
 # Wordwide
-Simple cli tool for quick searches
+Simple cli tool for quick searches in terminal
 
 # Command Index
 -h: displays this page\
