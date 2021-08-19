@@ -12,3 +12,5 @@ Requests:https://requests.readthedocs.io/en/master/ \
 Rich:https://rich.readthedocs.io/ 
 # Install:
  <code>pip install wordwide</code>
+ 
+## [PyPi Page](https://pypi.org/project/wordwide/)
