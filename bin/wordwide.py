@@ -130,6 +130,9 @@ def main():
         ''')
 
 
+    if len(sys.argv) <= 1:
+        help()
+        return
     if '-d' in sys.argv[1]:
         dictSearch()
     if '-h' in sys.argv[1]:
